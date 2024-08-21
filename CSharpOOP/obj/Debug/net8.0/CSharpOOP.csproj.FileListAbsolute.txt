@@ -1,0 +1,14 @@
+D:\ASPdotNET\CSharpOOP\CSharpOOP\bin\Debug\net8.0\CSharpOOP.exe
+D:\ASPdotNET\CSharpOOP\CSharpOOP\bin\Debug\net8.0\CSharpOOP.deps.json
+D:\ASPdotNET\CSharpOOP\CSharpOOP\bin\Debug\net8.0\CSharpOOP.runtimeconfig.json
+D:\ASPdotNET\CSharpOOP\CSharpOOP\bin\Debug\net8.0\CSharpOOP.dll
+D:\ASPdotNET\CSharpOOP\CSharpOOP\bin\Debug\net8.0\CSharpOOP.pdb
+D:\ASPdotNET\CSharpOOP\CSharpOOP\obj\Debug\net8.0\CSharpOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPdotNET\CSharpOOP\CSharpOOP\obj\Debug\net8.0\CSharpOOP.AssemblyInfoInputs.cache
+D:\ASPdotNET\CSharpOOP\CSharpOOP\obj\Debug\net8.0\CSharpOOP.AssemblyInfo.cs
+D:\ASPdotNET\CSharpOOP\CSharpOOP\obj\Debug\net8.0\CSharpOOP.csproj.CoreCompileInputs.cache
+D:\ASPdotNET\CSharpOOP\CSharpOOP\obj\Debug\net8.0\CSharpOOP.dll
+D:\ASPdotNET\CSharpOOP\CSharpOOP\obj\Debug\net8.0\refint\CSharpOOP.dll
+D:\ASPdotNET\CSharpOOP\CSharpOOP\obj\Debug\net8.0\CSharpOOP.pdb
+D:\ASPdotNET\CSharpOOP\CSharpOOP\obj\Debug\net8.0\CSharpOOP.genruntimeconfig.cache
+D:\ASPdotNET\CSharpOOP\CSharpOOP\obj\Debug\net8.0\ref\CSharpOOP.dll
